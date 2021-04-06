@@ -1,4 +1,6 @@
-### Hi there 👋
+### 백엔드 개발자 박병길입니다 👋
+
+[![bgpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgpark82&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bgpark82/bgpark82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
